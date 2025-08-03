@@ -169,4 +169,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Note**: This system is designed for educational purposes and demonstrates fundamental programming concepts in C. For production use, consider implementing additional security measures, database integration, and more robust error handling. 
+**Note**: This system is designed for educational purposes and demonstrates fundamental programming concepts in C. For production use, consider implementing additional security measures, database integration, and more robust error handling.
