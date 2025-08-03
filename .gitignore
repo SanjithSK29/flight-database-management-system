@@ -1,0 +1,22 @@
+# Compiled executables
+a.out
+jack
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+*~
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup 
